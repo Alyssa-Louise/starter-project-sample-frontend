@@ -22,13 +22,12 @@ p {
   margin-top: 20px; 
 }
 
-/* Styles for the buttons */
 button {
-  background-color: #942f47; /* Sets a pink background color (you can change this hex code) */
-  color: white; /* Sets the text color to white for contrast */
-  padding: 10px 20px; /* Adds padding inside the button (top/bottom 10px, left/right 20px) */
-  border: none; /* Removes the default button border */
-  border-radius: 5px; /* Rounds the corners of the button */
-  cursor: pointer; /* Changes the cursor to a hand when hovering over the button */
+  background-color: #942f47; 
+  color: white; 
+  padding: 10px 20px; 
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer; 
   font-size: 1rem; 
 } 
