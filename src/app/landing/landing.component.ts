@@ -9,8 +9,4 @@ import { RouterLink } from '@angular/router';
   styleUrl: './landing.component.css'
 })
 export class LandingComponent {
-  // Add a method to handle button clicks
-  onButtonClick(buttonType: string) {
-    console.log(`${buttonType} button clicked!`);
-  }
 }
